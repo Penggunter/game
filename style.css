@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+}
+.card{
+    height:  500px;
+}
+.photo{
+    height: 100px;
+    width: 100px;
+}
+.size_bg{
+    height: 1200px;
+    width: 600px;
+}
